@@ -1,4 +1,9 @@
 # `Py3memimporter`
+
+## WARNING
+
+The shellcode in this module is python version specific, please use the branch that corresonds to your version.
+
 ## Import _memimporter from shellcode
 
 Enables importing the _memimporter c extension via shellcode into builtins
